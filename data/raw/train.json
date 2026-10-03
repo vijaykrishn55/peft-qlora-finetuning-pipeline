@@ -1,0 +1,18 @@
+[
+  {
+    "instruction": "What is a database index?",
+    "response": "A database index is a data structure that helps a database find rows faster without scanning the entire table."
+  },
+  {
+    "instruction": "What is Python?",
+    "response": "Python is a high-level programming language known for its simple syntax and broad use in web development, automation, data science, and artificial intelligence."
+  },
+  {
+    "instruction": "What does an API do?",
+    "response": "An API defines how different software components communicate and exchange data with each other."
+  },
+  {
+    "instruction": "What is machine learning?",
+    "response": "Machine learning is a field of artificial intelligence where models learn patterns from data to make predictions or decisions."
+  }
+]
